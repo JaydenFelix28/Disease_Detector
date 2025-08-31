@@ -34,6 +34,7 @@ Disease_Detector/
 
 Clone the repository:
 git clone https://github.com/JaydenFelix28/Disease_Detector.git
+
 cd Disease_Detector
 
 
@@ -69,8 +70,8 @@ Expand dataset for more disease categories
 Add Deep Learning models for better accuracy
 Deploy on Cloud (AWS/GCP/Heroku)
 
-👨‍💻 Author
+👨‍💻 Author: Jayden Felix Jebaseelan A L
 
-Jayden Felix Jebaseelan A L
 💼 LinkedIn -https://www.linkedin.com/in/jayden-felix-jebaseelan-a-l/
+
 📧 Email: jaydenfelix28@gmail.com
